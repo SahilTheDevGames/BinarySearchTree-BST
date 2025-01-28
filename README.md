@@ -109,6 +109,3 @@ This binary search tree can be useful for gameplay mechanics, such as:
 1. Storing and retrieving hierarchical data.
 2. Managing a sorted list of scores or player statistics.
 3. Implementing custom data structures for AI behaviors or other gameplay features.
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and share it!
